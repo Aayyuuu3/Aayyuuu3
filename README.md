@@ -8,9 +8,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-metrics.com/api?username=Aayyuuu3&theme=dark&show_icons=true)<br/>
+![GitHub Stats](https://anuraghazra-github-readme-stats.vercel.app/api?username=Aayyuuu3&theme=dark&show_icons=true)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Aayyuuu3&theme=dark)<br/>
-![Top Langs](https://github-metrics.com/api/top-langs?username=Aayyuuu3&theme=dark&layout=compact)
+![Top Langs](https://anuraghazra-github-readme-stats.vercel.app/api/top-langs/?username=Aayyuuu3&theme=dark&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aayyuuu3&icon=0&color=0)](https://visitcount.itsvg.in)
