@@ -28,5 +28,5 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00599C&label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FAayyuuu3-github-profile%2Fvisits" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Aayyuuu3&color=00599c&style=flat&label=Profile+Views" alt="Profile Views" />
 </p>
