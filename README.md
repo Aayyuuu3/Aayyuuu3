@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 **Current Focus:** DSA in C++ 🚀
-🌱 **Learning:** AI, Machine Learning & Open Source 🤖
-🤝 **Looking to:** Collaborate on open-source projects & level up coding skills
-💬 **Ask me about:** Core logic building, problem-solving in C/C++, and scripting with Python/JS
+🔭 **Current Focus:** DSA in C++ 🚀<br>
+🌱 **Learning:** AI, Machine Learning & Open Source 🤖<br>
+🤝 **Looking to:** Collaborate on open-source projects & level up coding skills<br>
+💬 **Ask me about:** Core logic building, problem-solving in C/C++, and scripting with Python/JS<br>
 ⚡ **Fun fact:** Always eager to explore new tech stacks
 
 ## 🌐 Connect:
