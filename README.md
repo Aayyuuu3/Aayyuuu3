@@ -28,5 +28,5 @@
 
 ---
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAayyuuu3&count_bg=%2300599C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=00599C&label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FAayyuuu3-github-profile%2Fvisits" alt="Visitor Count" />
 </p>
