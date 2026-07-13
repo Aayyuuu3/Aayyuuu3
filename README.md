@@ -15,7 +15,7 @@
 ---
 
 # 💻 Tech Stack & Interests:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) [C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 
 ![DSA](https://img.shields.io/badge/DSA-00599C?logo=leetcode&logoColor=white) ![AI & ML](https://img.shields.io/badge/AI_&_ML-FF6F00?logo=tensorflow&logoColor=white) ![Open Source](https://img.shields.io/badge/Open_Source-000000?logo=github&logoColor=white)
 
